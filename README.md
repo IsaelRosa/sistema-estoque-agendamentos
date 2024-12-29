@@ -61,7 +61,7 @@ EndereçoAdicionar clientes com informações como nome, email, telefone e ender
 - 2° Instale as dependências necessárias:
     - pip install reportlab
 - 3° Execute o arquivo principal para iniciar a aplicação:
-    - python main.py
+    - C:\Users\user\Documents\LOCALDOPROJETO>'C:\Program Files (x86)\Python312-32\python.exe' -m PyInstaller --onefile --hidden-import=reportlab "NOMEDOARQUIVO.py"                               
 
 ## Como Usar
 - 1° Inicie o sistema: Após executar o comando acima, a interface gráfica será exibida. 
