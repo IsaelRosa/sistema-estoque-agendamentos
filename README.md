@@ -54,10 +54,20 @@ EndereçoAdicionar clientes com informações como nome, email, telefone e ender
     - Python 3.9 ou superior.
     - Gerenciador de pacotes pip configurado.
 
-### Pré-requisitos
+#### Passos para Instalação
+- 1 Clone o repositório do projeto:
+    - git clone https://github.com/seu-usuario/sistema-controle-estoque.git
+    - cd sistema-controle-estoque
+- 2 Instale as dependências necessárias:
+    - pip install reportlab
+- 3 Execute o arquivo principal para iniciar a aplicação:
+    - python main.py
 
-- Python 3.9 ou superior instalado.
-- Dependências adicionais podem ser instaladas com:
-  ```bash
-  pip install reportlab
+## Como Usar
+- 1 Inicie o sistema: Após executar o comando acima, a interface gráfica será exibida.
+- 2 Cadastre clientes: Clique na opção de cadastro e insira as informações necessárias.
+- 3 Gerencie o estoque: Adicione, edite ou remova itens do estoque conforme necessário.
+- 4 Realize agendamentos: Selecione um cliente, escolha as análises e finalize o agendamento.
+- 5 Visualize relatórios: Gere PDFs dos agendamentos para impressão ou armazenamento.
+
 
